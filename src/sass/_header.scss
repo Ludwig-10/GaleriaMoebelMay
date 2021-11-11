@@ -1,0 +1,47 @@
+.header {
+display: flex;
+position: fixed;
+width: 100%;
+justify-content: space-between;
+align-items: center;
+    height: 200px;
+    background: #385952;
+    padding: 30px 30px;
+    border-bottom: 1px solid #385952;
+    box-shadow: 0 8px 26px rgba(0,0,0,0.2);
+  
+}
+
+.logo-logo {
+    font-weight: 800;
+    font-size: 60px;
+    color: #bfac6c;
+}
+.logo-city {
+    font-size: 30px;
+    color: #bfac6c;
+}
+.logo {
+    display: flex;
+    margin: 20px 20px;
+}
+.navi {
+    display: block;
+}
+.navi-list {
+    display: inline-flex;
+    margin-right: 30px;
+  
+}
+// .navi-list-item {
+//     margin: 20px;
+// }
+.navi-text {
+    margin: 20px;
+    line-height: 16px;
+    font-size: 20px;
+    color: white;
+    &:hover {
+        color: #bfac6c;
+    }
+}
