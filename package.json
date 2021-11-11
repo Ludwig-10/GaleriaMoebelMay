@@ -1,24 +1,24 @@
 {
-  "name": "-goit-js-hw-10-food--service",
+  "name": "GaleriaMoebelMay" ,
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ludwig-10.github.io/-goit-js-hw-10-food--service/",
+  "homepage": "https://ludwig-10.github.io/GaleriaMoebelMay/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /-goit-js-hw-10-food--service/",
+    "build": "parcel build src/*.html --public-url /GaleriaMoebelMay/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ludwig-10/-goit-js-hw-10-food--service.git"
+    "url": "git+https://github.com/Ludwig-10/GaleriaMoebelMay.git"
   },
   "keywords": [],
   "author": "Denys Karakoi <denys.karakoi@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ludwig-10/-goit-js-hw-10-food--service/issues"
+    "url": "https://github.com/Ludwig-10/GaleriaMoebelMay/issues"
   },
   "devDependencies": {
     "css-loader": "^6.2.0",
