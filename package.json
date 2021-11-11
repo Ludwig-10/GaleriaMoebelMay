@@ -1,12 +1,12 @@
 {
-  "name": "GaleriaMoebelMay" ,
+  "name": "galeriamoebelmay" ,
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ludwig-10.github.io/GaleriaMoebelMay/",
+  "homepage": "ludwig-10.github.io/galeriamoebelmay/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /GaleriaMoebelMay/",
+    "build": "parcel build src/*.html --public-url/GaleriaMoebelMay/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
